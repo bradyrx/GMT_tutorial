@@ -1,0 +1,8 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.4.4
+B	a+glightred+tMy first plot
+J	X
+JX	X4i/3i
+R	10/70/-3/8
+L	1
+END
